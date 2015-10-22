@@ -5,6 +5,10 @@ NetCDF.jl
 
 NetCDF support for the julia programming language, there is a high-level and a medium-level interface for writing and reading netcdf files. 
 
+# Deprecated
+
+The NetCDF package was moved to https://github.com/JuliaGeo organisation. Please file issues pull requests etc under the new package url https://github.com/JuliaGeo/NetCDF.jl
+
 # Installation
 
     Pkg.add("NetCDF")
