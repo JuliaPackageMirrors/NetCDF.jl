@@ -1,3 +1,7 @@
+# Repository was moved
+
+The NetCDF package is now maintained here https://github.com/JuliaGeo/NetCDF.jl under the JuliaGeo umbrella organization. Please file issues and pull requests there. 
+
 NetCDF.jl
 ============
 
